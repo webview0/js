@@ -1,4 +1,4 @@
-package com.example.freedom0;
+package com.thriveim.webapp;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

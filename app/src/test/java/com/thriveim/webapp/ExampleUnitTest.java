@@ -1,4 +1,4 @@
-package com.example.freedom0;
+package com.thriveim.webapp;
 
 import org.junit.Test;
 

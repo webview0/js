@@ -1,4 +1,4 @@
-package com.example.freedom0;
+package com.thriveim.webapp;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -20,6 +20,6 @@ public class MainActivity extends AppCompatActivity {
 
         WebSettings webSettings = myWebView.getSettings();
         webSettings.setJavaScriptEnabled(true);
-        myWebView.loadUrl("http://asoft20106.accrisoft.com/demo09/");
+        myWebView.loadUrl("http://www.toledo.com/");
     }
 }

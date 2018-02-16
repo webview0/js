@@ -1,35 +1,27 @@
 {
   "project_info": {
-    "project_number": "444329305940",
-    "firebase_url": "https://freedom1-20739.firebaseio.com",
-    "project_id": "freedom1-20739",
-    "storage_bucket": "freedom1-20739.appspot.com"
+    "project_number": "507397051804",
+    "firebase_url": "https://webapps-1e5b3.firebaseio.com",
+    "project_id": "webapps-1e5b3",
+    "storage_bucket": "webapps-1e5b3.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:444329305940:android:2f63a0eac7c3746e",
+        "mobilesdk_app_id": "1:507397051804:android:ea7030d4c05d08c1",
         "android_client_info": {
-          "package_name": "com.example.freedom0"
+          "package_name": "com.thriveim.toledo"
         }
       },
       "oauth_client": [
         {
-          "client_id": "444329305940-jgi8miveef5t6c16pk3v4sus002gter6.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.freedom0",
-            "certificate_hash": "b4744e59a103868b594f0a61f9e33b74177983ad"
-          }
-        },
-        {
-          "client_id": "444329305940-d9emkstn6p69iqfjkttqcclm0o2kkqmj.apps.googleusercontent.com",
+          "client_id": "507397051804-ntggiacpb5pcos9nck8peejcjt4ghro6.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAkW9ODWY7TGjnZcNDCf_CcohnIM-P3XCM"
+          "current_key": "AIzaSyAQIFlHawL6HzteI9366NSAq3zTIxjxmVk"
         }
       ],
       "services": {
@@ -37,13 +29,8 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "444329305940-d9emkstn6p69iqfjkttqcclm0o2kkqmj.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "status": 1,
+          "other_platform_oauth_client": []
         },
         "ads_service": {
           "status": 2
