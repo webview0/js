@@ -18,8 +18,14 @@ public class MainActivity extends AppCompatActivity {
         myWebView.setWebChromeClient(new WebChromeClient());
         myWebView.setWebViewClient(new WebViewClient());
 
+        /* allow me to access native code from my javascript */
+        myWebView.addJavascriptInterface(new WebAppInterface(this), "Android");
+
+        /* please allow javascript inside the webview */
         WebSettings webSettings = myWebView.getSettings();
         webSettings.setJavaScriptEnabled(true);
-        myWebView.loadUrl("http://www.toledo.com/");
+
+        /* let the show begin */
+        myWebView.loadUrl("https://webview0.github.io/js/");
     }
 }
