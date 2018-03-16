@@ -1,4 +1,4 @@
-package com.thriveim.webapp;
+package com.thriveim.gig;
 
 import android.util.Log;
 

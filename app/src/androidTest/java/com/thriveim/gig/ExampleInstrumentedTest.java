@@ -1,4 +1,4 @@
-package com.thriveim.webapp;
+package com.thriveim.gig;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

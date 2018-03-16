@@ -1,7 +1,7 @@
-package com.thriveim.webapp;
+package com.thriveim.gig;
 
 import android.app.Activity;
-import android.support.v7.app.AppCompatActivity;
+//import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.webkit.WebChromeClient;
 import android.webkit.WebSettings;
@@ -27,6 +27,6 @@ public class MainActivity extends Activity {
         webSettings.setJavaScriptEnabled(true);
 
         /* let the show begin */
-        myWebView.loadUrl("http://movies.toledo.com:8080/");
+        myWebView.loadUrl("http://www.toledo.com/index.php?src=directory&view=GigGuide&srctype=App_GigGuide_lister");
     }
 }
