@@ -27,6 +27,6 @@ public class MainActivity extends Activity {
         webSettings.setJavaScriptEnabled(true);
 
         /* let the show begin */
-        myWebView.loadUrl("https://toledo.com/");
+        myWebView.loadUrl("http://movies.toledo.com:8080/");
     }
 }
